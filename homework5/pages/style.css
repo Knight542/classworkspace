@@ -6,6 +6,10 @@ body { font-family: Courier New; color: red; background-color: pink;}
 
 h1 { font-family: Arial; color: blue; }
 
+/* h4 changes */
+
+h4 { font-family: Helvetica; color: green; }
+
 /* border */
 
 p {
