@@ -1,0 +1,18 @@
+/* Body changes */
+
+body { font-family: Courier New; color: red; background-color: pink;}
+
+/* h1 changes */
+
+h1 { font-family: Arial; color: blue; }
+
+/* border */
+
+p {
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+
+/* 
