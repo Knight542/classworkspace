@@ -1,0 +1,21 @@
+#justtext {
+  float: left;
+}
+
+#images {
+  float: right;
+}
+
+.boxed {
+  border: solid white 1px;
+  padding: 8px;
+  background-color: black;
+  width: 120px;
+  height: 200px;
+}
+
+body {
+  background-color: black;
+}
+
+h1 { color: white; }
