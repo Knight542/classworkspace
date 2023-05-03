@@ -7,7 +7,7 @@
 }
 
 .boxed {
-  border: solid white 1px;
+  border: solid white 5px;
   padding: 8px;
   background-color: black;
   width: 120px;
