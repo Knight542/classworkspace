@@ -8,10 +8,10 @@
 
 .boxed {
   border: solid white 5px;
-  padding: 8px;
+  padding: 400px;
   background-color: black;
-  width: 120px;
-  height: 200px;
+  width: 200px;
+  height: 240px;
 }
 
 body {
@@ -25,6 +25,6 @@ h2 { color: white; }
 h3 { color: white; }
 
 img {
-    width: 120px;
-    height: 200px;
+    width: 200px;
+    height: 240px;
 }
