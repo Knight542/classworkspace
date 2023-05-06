@@ -37,15 +37,30 @@ a:active {
   color: yellow;
 }
 
-a {font-size: 60px}
+a {
+  font-size: 60px
+}
+
+a {
+  position: relative;
+  left: 200px;
+}
 
 body {
   background-color: black;
 }
 
-h1 { color: white; }
+h1 { 
+  color: white;
+  position: relative;
+  left: 200px;
+}
 
-h2 { color: white; }
+h2 {
+  color: white;
+  position: relative;
+  left: 200px;
+}
 
 h3 { color: white; }
 
