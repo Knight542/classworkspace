@@ -3,8 +3,8 @@
   right: 60px;
 }
 
-.right {
-  position: absolute;
+#right {
+  position: relative;
   left: 200px;
 }
 
