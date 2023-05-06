@@ -1,11 +1,11 @@
 .left {
   position: relative;
-  right: 60px;
+  right: 600px;
 }
 
 #right {
   position: relative;
-  left: 200px;
+  left: 600px;
 }
 
 .boxed {
@@ -43,7 +43,7 @@ a {
 
 a {
   position: absolute;
-  left: 200px;
+  left: 600px;
 }
 
 body {
@@ -53,13 +53,13 @@ body {
 h1 { 
   color: white;
   position: absolute;
-  left: 200px;
+  left: 600px;
 }
 
 h2 {
   color: white;
   position: absolute;
-  left: 200px;
+  left: 600px;
 }
 
 h3 { color: white; }
