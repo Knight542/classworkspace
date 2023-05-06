@@ -1,0 +1,70 @@
+.left {
+  position: relative;
+  right: 600px;
+}
+
+#right {
+  position: relative;
+  left: 600px;
+}
+
+.boxed {
+  border: solid yellow 5px;
+  padding: 400px;
+  background-color: white;
+  color: yellow;
+  width: 200px;
+  height: 240px;
+}
+
+a:hover{
+ border: solid yellow 1px;  
+}
+
+a {
+  color: yellow;
+}
+
+a:visited {
+  color: orange;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:active {
+  color: yellow;
+}
+
+a {
+  font-size: 60px
+}
+
+a {
+  position: absolute;
+  left: 600px;
+}
+
+body {
+  background-color: white;
+}
+
+h1 { 
+  color: yellow;
+  position: absolute;
+  left: 600px;
+}
+
+h2 {
+  color: yellow;
+  position: absolute;
+  left: 600px;
+}
+
+h3 { color: yellow; }
+
+img {
+    width: 200px;
+    height: 240px;
+}
