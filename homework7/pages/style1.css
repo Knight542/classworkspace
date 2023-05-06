@@ -21,22 +21,20 @@ a:hover{
  border: solid white 1px;  
 }
 
-a:link {
+a {
   color: white;
-  background-color: transparent;
-  text-decoration: none;
 }
 
 a:visited {
   color: gray;
-  background-color: transparent;
-  text-decoration: none;
 }
 
 a:hover {
   color: white;
-  background-color: transparent;
-  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
 }
 
 a {font-size: 60px}
