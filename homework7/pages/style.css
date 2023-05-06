@@ -42,7 +42,7 @@ a {
 }
 
 a {
-  position: relative;
+  position: absolute;
   left: 200px;
 }
 
@@ -52,13 +52,13 @@ body {
 
 h1 { 
   color: white;
-  position: relative;
+  position: absolute;
   left: 200px;
 }
 
 h2 {
   color: white;
-  position: relative;
+  position: absolute;
   left: 200px;
 }
 
