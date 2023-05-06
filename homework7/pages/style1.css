@@ -18,8 +18,28 @@
 }
 
 a:hover{
- border: solid white 5px;  
+ border: solid white 1px;  
 }
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a {font-size: 60px}
 
 body {
   background-color: black;
