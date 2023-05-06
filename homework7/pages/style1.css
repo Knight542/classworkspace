@@ -4,8 +4,8 @@
 }
 
 .right {
-  position: relative;
-  right: 200px;
+  position: absolute;
+  left: 200px;
 }
 
 .boxed {
