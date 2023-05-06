@@ -1,9 +1,9 @@
-#left {
+.left {
   position: relative;
   right: 60px;
 }
 
-#right {
+.right {
   position: relative;
   left: 60px;
 }
