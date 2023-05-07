@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Homework 8 - HTML5</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header role="banner" >
+      <h1>Attempt at HTML5</h1>
+      <nav>
+        <ul>
+          <li><a href="#">NAV #1</a></li>
+          <li><a href="#">NAV #2</a></li>
+          <li><a href="#">NAV #3</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <article>
+      <h2>Articles</h2>
+      <p>Read here for some almost practically useless information!</p>
+      <section>
+        <h3>Legend of Zelda Map Consistiency</h3>
+        <p>Unless you're a fan of the series, you wouldn't know that The Legend of Zelda: Ocarina of Time, and The Legend of Zelda: The Wind Waker, share a map. They are the exact same Hyrule, hundreds of years apart, with Wind Waker being the flooded version of Ocarina. Most landmarks actually line up, like Dragonroost Island being Death Mt. However, there are more islands in Wind Waker, than there are mountains in Ocarina, meaning that some of these islands shouldn't exist!</p>
+      </section>
+      <section>
+        <h3>Often Misinterpreted Rule in D&D 5e</h3>
+        <p>In the 5th edition of Dungeons and Dragons, many people, players and Dungeon Masters alike, don't know that the frequently used "Surprise Round" mechanic actually requires characters already in stealth, to roll stealth again before getting to make their surprise attacks. This is a common Wizards of the Coast "L", and is often homebrewed to be more streamlined by most DMs.</p>
+        <!-- from www.catipsum.com -->
+      </section>
+    </article>
+    
+    <aside>
+      <h3>Aside Area</h3>
+      <p>I don't think I've ever seen an aside are used for anything other than ads.</p>
+      <p>No, like seriously, what is actually supposed to go here?</p>
+    </aside>
+
+    <footer>
+      <p>Technically, a website only has one bottom "face", so shouldn't it just be a singular "foot"?</p>
+    </footer>
+  </body>
+</html>
