@@ -56,7 +56,7 @@ article {
   background-color: #4757A5;
   border: double 10px white;
   text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
-  height: 550px;
+  height: 560px;
   width: 600px;
 }
 
@@ -103,7 +103,7 @@ aside {
   left: 640px;
   background-color: #4757A5;
   border: solid 8px white;
-  height: 555px;
+  height: 565px;
   width: 302px;
   text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
 }
