@@ -45,7 +45,7 @@ nav ul li a {
   text-decoration: none;
   padding: 5px 20px;
   background: #4757A5;
-  color: #ffffff;
+  color: #000000;
   text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
   border: solid 4px white;
 }
@@ -69,7 +69,7 @@ article h2 {
 }
 
 article p {
-  color: rgba(0, 0, 0, .5);
+  color: #ffffff;
   line-height: 24px;
   padding: 2px 20px;
 }
@@ -91,7 +91,7 @@ section h3 {
 }
 
 section p {
-  color: #ffffff;
+  color: #000000;
   font-size: 16px;
   font-style: italic;
   line-height: 22px;
@@ -117,7 +117,7 @@ aside h3 {
 }
 
 aside p {
-  color: rgba(0, 0, 0, .5);
+  color: #ffffff;
   line-height: 22px;
   padding: 0 20px;
 }
