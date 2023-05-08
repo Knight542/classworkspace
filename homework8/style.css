@@ -48,6 +48,7 @@ nav ul li a {
   color: #ffffff;
   text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
   border: solid 4px white;
+  border-radius: 8px;
 }
 
 article {
